@@ -1,0 +1,29 @@
+/* Empty. Add your own CSS if you like */
+.col{
+	height: 120px;
+}
+.blur__element{
+  -webkit-filter: blur(20px) grayscale(100%);  
+}
+.progress{
+	padding: 10px;
+}
+.progress__style{
+	padding: 5px;
+	display: none;
+}
+#content{
+	position: absolute;
+    text-align: center;
+    padding: 20px;
+    top: 25%;
+}
+
+.new_button{
+	    padding-top: 100%;	
+}
+#prog{
+	height: 4px;	
+	background-color: #ec6565;
+	border-radius: 2px;
+}
